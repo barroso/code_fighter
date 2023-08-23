@@ -8,6 +8,24 @@ In this project we will solve the challenges in 3 different languages: Javascrip
 
 In the future we may include more languages.
 
+## Run Tests
+
+```
+yarn test
+```
+![JS Tests](/imgs/run_js_tests.png)
+
+```
+bundle exec rspec spec
+```
+![Ruby Tests](/imgs/run_ruby_tests.png)
+
+```
+mix test
+```
+![Elixir Tests](/imgs/run_elixir_tests.png)
+
+
 ## Create new challenge
 
 ```
