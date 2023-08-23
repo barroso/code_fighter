@@ -1,0 +1,12 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "Code Fighter is a mix developer challenges",
+  "author": "Barroso",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
