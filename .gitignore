@@ -2,3 +2,5 @@
 .vscode/
 
 challenges/javascript/node_modules
+
+challenges/elixir/_build
